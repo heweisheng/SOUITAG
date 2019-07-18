@@ -7,6 +7,12 @@
 >>- [*offset / }*offset参考兄弟控件右边位置，取值为像素大小  
 >>- ]*offset / {*offset参考兄弟控件左边位置，取值为像素大小  
 >>- 注意事项当pos前两个取负数时为反向计算
-### skin="skin_name"
+2. skin="skin_name"
 skin_name需要uires.idx先导入file再往skin.xml导入设定skin_name到图片映射，最后才可以使用例如  
-> 使用
+> 使用前导入 uires.idx
+>> \<IMG\>\<file name="img_login" path=""\>\</IMG\>  
+
+> skin.xml
+>> \<skin\><imglist name="skin_login" src="IMG:img_Login" /\>\</skin\>
+3. cache="1" or cache="0"
+>- 当cache=1会缓存窗口，用空间换时间
