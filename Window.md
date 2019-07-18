@@ -1,6 +1,6 @@
 # Window标签
 ## 常用属性
-1. pos=startx,starty,endx,endy"  
+1. pos="startx,starty,endx,endy"  
 > x为控件水平锚点，y为控件垂直锚点 
 >>- |为参考居中父控件，取值范围为像素大小  
 >>- %为参考父窗口百分比位置,取值为0-100  
@@ -18,3 +18,4 @@ skin_name需要uires.idx先导入file再往skin.xml导入设定skin_name到图�
 >- 当cache=1会缓存窗口，用空间换时间
 4. layout="hbox/vbox"
 >- 水平布局，垂直布局，当设置了后pos属性无效
+5. 
