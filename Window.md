@@ -16,6 +16,6 @@ skin_name需要uires.idx先导入file再往skin.xml导入设定skin_name到图�
 >> \<skin\><imglist name="skin_login" src="IMG:img_Login" /\>\</skin\>
 3. cache="1" or cache="0"
 >- 当cache=1会缓存窗口，用空间换时间
-4. layout="hbox/vbox"
->- 水平布局，垂直布局，当设置了后pos属性无效
+4. layout="hbox" layout="vbox"
+>- 水平布局，垂直布局，当设置了,子控件pos属性无效
 5. 
