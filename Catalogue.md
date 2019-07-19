@@ -4,3 +4,4 @@
 ## [Edit标签](https://github.com/heweisheng/SOUITAG/blob/master/Edit.md)
 ## [Editmenu标签](https://github.com/heweisheng/SOUITAG/blob/master/Editmenu.md)
 ## [Imgbtn标签](https://github.com/heweisheng/SOUITAG/blob/master/Imgbtn.md)
+## [Tabctrl标签](https://github.com/heweisheng/SOUITAG/blob/master/Tabctrl.md)
