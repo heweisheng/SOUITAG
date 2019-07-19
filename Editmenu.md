@@ -1,0 +1,10 @@
+# Editmenu控件
+## 右键时显示信息控件，常见属性:
+1. trCtx=""
+>- 指定被翻译，会根据语言包进行翻译
+2. iconSkin=""
+>- 指定子控件的icon信息，一般指定系统自带资源
+## Item控件
+3## editmenu子控件
+1. icon
+>- 指定Editmenu中skin切图的第几部分
