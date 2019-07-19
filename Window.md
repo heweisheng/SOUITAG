@@ -20,3 +20,9 @@ skin_name需要uires.idx先导入file再往skin.xml导入设定skin_name到图�
 >- 水平布局，垂直布局，当设置了,子控件pos属性无效
 5. colorBkgnd="#cccccc"
 >- 背景色，与skin类似。
+6. layout="gridLayout"
+>- 网格布局，2.8特性，需要指定columnCount, rowCount, xInterval, yInterval, xGravity, yGravity等属性
+>>- columnCount为指定行数
+>>- rowCount为指定列数
+>>- xInterval x轴间隔像素点
+>>- yInterval y轴间隔像素点
