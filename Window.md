@@ -26,3 +26,7 @@ skin_name需要uires.idx先导入file再往skin.xml导入设定skin_name到图�
 >>- rowCount为指定列数
 >>- xInterval x轴间隔像素点
 >>- yInterval y轴间隔像素点
+7. margin-x=" " margin-y=" "
+>- x，y轴边距
+8. padding="left,bottom,right,top"
+>- 内容增大
