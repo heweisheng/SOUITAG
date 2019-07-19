@@ -1,0 +1,21 @@
+# Edit控件
+## 编辑框常用属性
+1. pos(同window)
+2. colorBkgnd="#ffffff"
+>- 指定edit控件的背景色
+3. align="right" align="left"
+>- 指定文字出现的水平位置，若为right则文字从右边显示，否则左边
+4. valign="center"
+>- 指定文字出现的竖直位置为中间
+5. inset="startx,starty,endx,endy"
+>- 指定文字出现的位置范围
+6. cueText="text"
+>- 指定默认信息
+7. font="face:字体,size:x"
+>- 指定字体颜色
+8. wantTab=""
+>- 指定该文本框接受Tab键盘或者不接受
+9. colorText="#ffffff"
+>- 指定输入文本颜色
+10. cueColor="#ffffff"
+>- 指定默认文本颜色
